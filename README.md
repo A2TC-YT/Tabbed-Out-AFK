@@ -12,6 +12,8 @@ This works because once you alt tab the game becomes unfocused and you can't sen
 So using ViGEmBus makes it possible to make macros for controllers without owning a controller/needing to pay 600 dollar for a scuff controller to get macros. And thanks to Evilc who made a wrapper so it can be all done through AHK
 
 ## Installation
+How to Install the zip file.
+ ㅤ1.
 
 How to install VIGEmBus for a emulated controller.
 
