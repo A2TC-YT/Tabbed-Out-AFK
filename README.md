@@ -36,6 +36,9 @@ Once everything is installed you can open the Macro folder and start using the a
 
 If you have any questions ask either **IceCubes#6612** or **A 2016 Toyota Corolla#3074** on Discord
 
+## InGame settings that must be changed
+You have to change your controller ingame sensitivity to 20 This should be located in (Settings -> Controller -> Look Sensitivity)
+
 ## Macros available so far
 - controller afk KF movement
 - controller afk KF camera
