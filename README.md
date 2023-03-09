@@ -10,19 +10,25 @@ The reason this works is because once you alt tab the game becomes unfoucsed and
 
 So having ViGEmBus makes it possible to make macros for controllers without owning a controller/needing to pay 600 dollar for a scuff controller to get macros because it just emulates a controller, And thanks to Evilc he made a wrapper so it can be all done through AHK
 
-## How to Install
+## Installation
 
-- How to install VIGEmBus for a emulated controller.
-   -1.Inside the zip file open VIGEmBus folder
-   -2.There should be a exe in there and you should open it and install VIGEmBus
-   -3.Once you have installed everything restart your pc
+How to install VIGEmBus for a emulated controller.
 
-- How to install AHK Library.
-   -1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
-   -2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
+1.Inside the zip file open VIGEmBus folder
 
-- Once everything is installed.
-   -When you have installed everything you can open the Macro folder and start using the afk scripts 
+2.There should be a exe in there and you should open it and install VIGEmBus
+
+3.Once you have installed everything restart your pc
+
+HoW to install AHK Library.
+
+1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
+
+2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
+
+Once everything is installed.
+
+When you have installed everything you can open the Macro folder and start using the afk scripts 
 
 ## Credit
 ViGEmBus is available here for more info:
