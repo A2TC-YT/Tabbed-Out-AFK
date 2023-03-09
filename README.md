@@ -39,7 +39,7 @@ If you have any questions ask either **IceCubes#6612** or **A 2016 Toyota Coroll
 ## InGame settings that must be changed
 You have to change your controller ingame sensitivity to 20 This should be located in (Settings -> Controller -> Look Sensitivity)
 
-##How to use Macros
+## How to use Macros
 - Pressing Control 6 will start the AFK Macro
 - Pressing Control 7 will stop the AFK Macro
 - Pressing Control 8 Will close the AFK Macro
