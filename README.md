@@ -28,7 +28,7 @@ How to install AHK Library.
 
 Once everything is installed.
 
-When you have installed everything you can open the Macro folder and start using the afk scripts 
+ㅤWhen you have everything installed you can open the Macro folder and start using the afk scripts 
 
 ## Credit
 ViGEmBus is available here for more info:
