@@ -45,7 +45,7 @@ You have to change your controller ingame sensitivity to 20 This should be locat
 - Pressing Control 8 Will close the AFK Macro
 
 ## Macros available so far
-- controller afk KF movement
+- [controller afk KF movement](https://www.youtube.com/watch?v=kcuMypDEAxw&ab_channel=IceCubes)
 - [controller afk KF camera](https://youtu.be/QffqJ9zrGoQ)
 - **MORE TO COME IN THE FEATURE**
 
