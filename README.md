@@ -12,21 +12,21 @@ So having ViGEmBus makes it possible to make macros for controllers without owni
 
 ## Installation
 
-How to install VIGEmBus for a emulated controller.
+- How to install VIGEmBus for a emulated controller.
 
- 1. Inside the zip file open VIGEmBus folder
+1.Inside the zip file open VIGEmBus folder
 
- 2. There should be a exe in there and you should open it and install VIGEmBus
+2.There should be a exe in there and you should open it and install VIGEmBus
 
- 3. Once you have installed everything restart your pc
+3.Once you have installed everything restart your pc
 
-HoW to install AHK Library.
+- How to install AHK Library.
 
 1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
 
 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
-Once everything is installed.
+- Once everything is installed.
 
 When you have installed everything you can open the Macro folder and start using the afk scripts 
 
