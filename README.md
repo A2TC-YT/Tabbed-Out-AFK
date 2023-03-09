@@ -22,7 +22,7 @@ How to install VIGEmBus for a emulated controller.
 
 How to install AHK Library.
 
-1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
+1. Go to AHK Download Directory Normally Default install is at (**C:\Program Files\AutoHotkey**)
 
 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
@@ -30,9 +30,16 @@ Once everything is installed.
 
 ㅤWhen you have everything installed you can open the Macro folder and start using the afk scripts 
 
+ㅤIf you have any questions ask either **IceCubes#6612** or **A 2016 Toyota Corolla#3074** on Discord
+
+## Macros available so far
+- Kings fall walking backwards AFK
+- Kings fall looking Down and UP AFK
+- **MORE TO COME IN THE FEATURE**
+
 ## Credit
 ViGEmBus is available here for more info:
 https://github.com/ViGEm/ViGEmBus
 
-Credit to EvilC for making the ViGEm wrapper for AHK:
+Credit to **EvilC** for making the ViGEm wrapper for AHK:
 https://github.com/evilC/AHK-ViGEm-Bus
