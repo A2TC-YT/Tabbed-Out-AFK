@@ -14,11 +14,11 @@ So having ViGEmBus makes it possible to make macros for controllers without owni
 
 How to install VIGEmBus for a emulated controller.
 
- ㅤ1.Inside the zip file open VIGEmBus folder
+ ㅤ1. Inside the zip file open VIGEmBus folder
 
- ㅤ2.There should be a exe in there and you should open it and install VIGEmBus
+ ㅤ2. There should be a exe in there and you should open it and install VIGEmBus
 
- ㅤ3.Once you have installed everything restart your pc
+ ㅤ3. Once you have installed everything restart your pc
 
 How to install AHK Library.
 
