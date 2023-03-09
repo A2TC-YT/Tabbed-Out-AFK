@@ -32,8 +32,8 @@ Once everything is installed you can open the Macro folder and start using the a
 If you have any questions ask either **IceCubes#6612** or **A 2016 Toyota Corolla#3074** on Discord
 
 ## Macros available so far
-- Kings fall walking backwards AFK
-- Kings fall looking Down and UP AFK
+- controller afk KF movement
+- controller afk KF camera
 - **MORE TO COME IN THE FEATURE**
 
 If you want more macros or have any new ideas DM **IceCubes#6612** or **A 2016 Toyota Corolla#3074** about it and we will see if we can do it and we will update the github with it.
