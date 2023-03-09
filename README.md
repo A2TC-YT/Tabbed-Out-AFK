@@ -9,7 +9,7 @@ AFK xp macro for Destiny 2 where you can tab out of the game while its running a
 ViGEmBus is a driver that emulates a PS4 Controller or Xbox 360 Controller.
 This works because once you alt tab the game becomes unfocused and you can't send keyboard and mouse inputs to the game, however the game can still aceept controller inputs.
 
-So using ViGEmBus makes it possible to make macros for controllers without owning a controller/needing to pay 600 dollar for a scuff controller to get macros. And thanks to Evilc he made a wrapper so it can be all done through AHK
+So using ViGEmBus makes it possible to make macros for controllers without owning a controller/needing to pay 600 dollar for a scuff controller to get macros. And thanks to Evilc who made a wrapper so it can be all done through AHK
 
 ## Installation
 
