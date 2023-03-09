@@ -15,6 +15,7 @@ So using ViGEmBus makes it possible to make macros for controllers without ownin
 How to Install the zip file.
 
  ㅤ1. Install the latest [release](https://github.com/A2TC-YT/Tabbed-Out-AFK/releases) of the Tabbed Out AFK
+ 
  ㅤ2. Open the zip file and all the folders that you need should be in there
 
 How to install VIGEmBus for a emulated controller.
