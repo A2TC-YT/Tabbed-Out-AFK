@@ -18,8 +18,8 @@ So having ViGEmBus makes it possible to make macros for controllers without owni
 3.Once you have installed everything restart your pc
 
 - How to install AHK Library.
-  * 1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
-  * 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
+ -  1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
+ - 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
 - Once everything is installed.
 
