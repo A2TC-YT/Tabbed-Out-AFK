@@ -22,6 +22,7 @@ So having ViGEmBus makes it possible to make macros for controllers without owni
 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
 - Once everything is installed.
+
 When you have installed everything you can open the Macro folder and start using the afk scripts 
 
 ## Credit
