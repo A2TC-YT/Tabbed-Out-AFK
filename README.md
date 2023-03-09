@@ -46,7 +46,7 @@ You have to change your controller ingame sensitivity to 20 This should be locat
 
 ## Macros available so far
 - controller afk KF movement
-- controller afk KF camera
+- [controller afk KF camera](https://youtu.be/QffqJ9zrGoQ)
 - **MORE TO COME IN THE FEATURE**
 
 If you want more macros or have any new ideas DM **IceCubes#6612** or **A 2016 Toyota Corolla#3074** about it and we will see if we can do it and we will update the github with it.
