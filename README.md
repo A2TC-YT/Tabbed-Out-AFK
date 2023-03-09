@@ -36,6 +36,7 @@ Once everything is installed.
 - Kings fall walking backwards AFK
 - Kings fall looking Down and UP AFK
 - **MORE TO COME IN THE FEATURE**
+
 If you want more macros DM **IceCubes#6612** or **A 2016 Toyota Corolla#3074** about it and we will see if we can do it and we will update the github with it
 
 ## Credit
